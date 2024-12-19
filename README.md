@@ -2,6 +2,9 @@
 
 <!--
 **manognat30/manognat30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 About Me
+
+I'm Manogna Tummanepally, a passionate Machine Learning Engineer, I thrive on delving into complex and diverse datasets to unearth valuable insights. Proficient in Python, SQL, and R, I utilize these tools to execute sophisticated data analysis, visualization, and Machine Learning tasks. My hunger for knowledge propels me to continuously adopt new skills and technologies, enriching my repertoire in the field of Machine Learning. Fueled by an indomitable spirit, I tackle obstacles head-on, consistently delivering exceptional results. I am pursuing my Master of Science in Business Analytics and Information Systems (BAIS) at University of South Florida, Tampa, achieving an impressive GPA of 3.95/4.0. My research explores intricate field of machine learning, with the goal of harnessing this discipline to drive practical innovations and solutions.
 
 Here are some ideas to get you started:
 
