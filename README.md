@@ -34,6 +34,9 @@ I'm Manogna Tummanepally, a passionate Machine Learning Engineer, I thrive on de
 ![Ensemble Methods](https://img.shields.io/badge/-Ensemble_Methods-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Autoencoders](https://img.shields.io/badge/-Autoencoders-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
+## 🌱 Interests
+Machine learning, NLP, Ethical AI.
+
 <!-- Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
